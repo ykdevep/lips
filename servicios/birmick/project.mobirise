@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Servicio",
-    "currentPage": "page2.html",
+    "currentPage": "birmick.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -29,7 +29,7 @@
       }
     },
     "versionFirst": "4.7.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 28,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -704,18 +704,10 @@
         }
       ]
     },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "Page 1",
-        "order": 2
-      },
-      "components": []
-    },
-    "page2.html": {
+    "birmick.html": {
       "settings": {
         "title": "Birmick",
-        "meta_descr": "Sistema de Medición de la Atención",
+        "meta_descr": "Birmick",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
