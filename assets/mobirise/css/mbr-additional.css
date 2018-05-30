@@ -2313,7 +2313,7 @@ body {
 .cid-qTyO4uqeIT {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qTyO4uqeIT .media-wrap {
@@ -2375,4 +2375,5 @@ body {
 }
 .cid-qTyO4uqeIT .copyright > p {
   text-align: center;
+  color: #232323;
 }
